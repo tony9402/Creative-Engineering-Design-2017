@@ -1,5 +1,22 @@
 # 공학설계입문
 
+<!-- repository-guide:start -->
+## 저장소 안내
+
+심박 센서를 이용한 무드등을 만든 2017년 공학설계입문 프로젝트입니다. Arduino 계열 보드와 Raspberry Pi 3를 사용한 소스 및 제작 자료를 보관합니다.
+
+| 경로 | 내용 |
+| --- | --- |
+| [Source Code/](Source%20Code/) | Arduino·Python 구현 |
+| [Raspberry Pi 3/](Raspberry%20Pi%203/) | Raspberry Pi 관련 코드와 자료 |
+| [Other Files/](Other%20Files/) | 보고서·사진·영상 자료 |
+
+아래 부품 목록과 동작 설명을 먼저 읽고, `Source Code/`에서 센서 처리와 보드별 코드를 확인하세요.
+
+목적과 구현 범위, 구성 분석은 [Explain.md](Explain.md)를 참고하세요.
+
+<!-- repository-guide:end -->
+
 작품명 : 심박센서를 이용한 무드등
 작품 설명 : 심박센서를 이용해 자신의 심박수에 맞는 노래를 틀어준다.
 
